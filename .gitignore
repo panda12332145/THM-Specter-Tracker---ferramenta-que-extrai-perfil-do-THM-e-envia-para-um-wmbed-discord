@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+tryhackme_profile.json
+*.tmp
+.pytest_cache/
